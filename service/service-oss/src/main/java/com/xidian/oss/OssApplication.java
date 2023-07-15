@@ -23,6 +23,7 @@ public class OssApplication {
         c.setIgnoreUnresolvablePlaceholders(true);
 
         return c;
+        //测试
     }
 
 }
